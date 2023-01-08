@@ -20,3 +20,6 @@ Demonstrate an app using fundamentals of React including simple and class compon
 ### [React GitHub](https://github.com/jglchen/react-app-demo)
 ### Docker: docker run -p 3000:3000 jglchen/react-app-demo
 ### back To [Series Home](https://jglchen.github.io/)
+
+{% include giscus.html %}
+
